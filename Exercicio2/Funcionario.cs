@@ -4,13 +4,15 @@ class Funcionario
     string nome;
     string sobrenome;
     double salario;
+    double percentual;
 
-    public Funcionario(string cpf, string nome, string sobrenome, double salario)
+    public Funcionario(string cpf, string nome, string sobrenome, double salario, double percentual)
     {
         this.cpf = cpf;
         this.nome = nome;
         this.sobrenome = sobrenome;
         this.salario = salario;
+        this.percentual = percentual;
     }
 
     public string GetCpf()
@@ -43,11 +45,13 @@ class Funcionario
 
     public void AumentarSalario(double percentual)
     {
-        this.salario = this.salario + (this.salario * (percentual/100));
+        double aument = this.salario + (this.salario * (percentual/100));
+
+        this.salario = aument;
     }
 
     public override string ToString()
     {    
-        return ($"CPF: {this.cpf}\nNome: {this.nome}\nSobrenome: {this.sobrenome}\nSalario: {this.salario}\nO salário anual é de: {GetSalarioAnual()}".Trim());
+        return ($"CPF: {this.cpf}\nNome: {this.nome}\nSobrenome: {this.sobrenome}\nCom o aumento, o Salário ficou: {this.salario:F2}\nO salário anual é de: {GetSalarioAnual():F2}");
     }
 }

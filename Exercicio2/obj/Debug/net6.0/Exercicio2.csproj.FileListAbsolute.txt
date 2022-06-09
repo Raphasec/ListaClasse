@@ -1,0 +1,15 @@
+D:\Ifes\Programação para Web\ExercícioClasse\Exercicio2\bin\Debug\net6.0\Exercicio2.exe
+D:\Ifes\Programação para Web\ExercícioClasse\Exercicio2\bin\Debug\net6.0\Exercicio2.deps.json
+D:\Ifes\Programação para Web\ExercícioClasse\Exercicio2\bin\Debug\net6.0\Exercicio2.runtimeconfig.json
+D:\Ifes\Programação para Web\ExercícioClasse\Exercicio2\bin\Debug\net6.0\Exercicio2.dll
+D:\Ifes\Programação para Web\ExercícioClasse\Exercicio2\bin\Debug\net6.0\Exercicio2.pdb
+D:\Ifes\Programação para Web\ExercícioClasse\Exercicio2\obj\Debug\net6.0\Exercicio2.csproj.AssemblyReference.cache
+D:\Ifes\Programação para Web\ExercícioClasse\Exercicio2\obj\Debug\net6.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ifes\Programação para Web\ExercícioClasse\Exercicio2\obj\Debug\net6.0\Exercicio2.AssemblyInfoInputs.cache
+D:\Ifes\Programação para Web\ExercícioClasse\Exercicio2\obj\Debug\net6.0\Exercicio2.AssemblyInfo.cs
+D:\Ifes\Programação para Web\ExercícioClasse\Exercicio2\obj\Debug\net6.0\Exercicio2.csproj.CoreCompileInputs.cache
+D:\Ifes\Programação para Web\ExercícioClasse\Exercicio2\obj\Debug\net6.0\Exercicio2.dll
+D:\Ifes\Programação para Web\ExercícioClasse\Exercicio2\obj\Debug\net6.0\refint\Exercicio2.dll
+D:\Ifes\Programação para Web\ExercícioClasse\Exercicio2\obj\Debug\net6.0\Exercicio2.pdb
+D:\Ifes\Programação para Web\ExercícioClasse\Exercicio2\obj\Debug\net6.0\Exercicio2.genruntimeconfig.cache
+D:\Ifes\Programação para Web\ExercícioClasse\Exercicio2\obj\Debug\net6.0\ref\Exercicio2.dll

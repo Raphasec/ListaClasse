@@ -22,12 +22,10 @@ Console.WriteLine($"A área do c3 é: {c3.GetArea():F2}");
 Console.WriteLine($"A circunferência do c3 é: {c3.GetCircunferencia():F2}");
 
 Console.WriteLine($"\nA área do q1 é: {q1.GetArea():F2}");
-Console.WriteLine($"A circunferência do q1 é: {q1.GetPerimetro():F2}");
+Console.WriteLine($"O perímetro do q1 é: {q1.GetPerimetro():F2}");
 
 Console.WriteLine($"A área do q2 é: {q2.GetArea():F2}");
-Console.WriteLine($"A circunferência do q2 é: {q2.GetPerimetro():F2}");
+Console.WriteLine($"O perímetro do q2 é: {q2.GetPerimetro():F2}");
 
 Console.WriteLine($"A área do q3 é: {q3.GetArea():F2}");
-Console.WriteLine($"A circunferência do q3 é: {q3.GetPerimetro():F2}");
-
-q1.
+Console.WriteLine($"O perímetro do q3 é: {q3.GetPerimetro():F2}");
